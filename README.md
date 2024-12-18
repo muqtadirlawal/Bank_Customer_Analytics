@@ -109,7 +109,12 @@ An extract from the EDA, involving checking for missing and duplicate records is
 
 The full EDA script can be found [here](NovaTrust_EDA.sql)
 
-Below is section of the query, where I filtered for student customers, per the business requirement.
+Below is the section of the script, where I filtered for student customers, per the business requirement.
+
+![](students_salary.png)
+
+Next, I calculated the RFM values for each student customer. An extract is shown below.
+
 
 ## Insights and Recommendations
 ![](Overview.png)

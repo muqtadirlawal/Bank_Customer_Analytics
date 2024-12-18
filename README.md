@@ -42,9 +42,9 @@ Tasks for the Analyst
 
 ## Data Description
 The data for this project comprises of 2  tables;
-There are 2 datasets in this project, which are;
 
 - Customer Table
+
   - CustomerID: Unique identifier for each customer.
   - FirstName: First name of the customer.
   - LastName: Last name of the customer.

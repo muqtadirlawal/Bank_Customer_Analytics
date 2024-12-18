@@ -102,8 +102,7 @@ Microsoft Power Bi
 8. Recommendations
    - Present clear, actionable insights to the marketing team based on analysis.
   
-##
-Sample Queries
+## Sample Queries
 
 ## Insights and Recommendations
 ![](Overview.png)

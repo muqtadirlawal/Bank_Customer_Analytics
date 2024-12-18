@@ -142,48 +142,17 @@ An overview of the dashboard can be found below:
 
 You can view and interact with the report [here](https://hullacuk-my.sharepoint.com/personal/m_o_lawal-2021_hull_ac_uk/_layouts/15/Doc.aspx?sourcedoc={300767bd-d123-4785-a64f-f61272b175a4}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
-## Delivery Performance Analysis: Key Insights and Strategic Recommendations
-Our comprehensive analysis of delivery operations reveals critical opportunities for operational enhancement and customer experience improvement.
 
-## Key Insights
+## Recommended Strategies for Engagement
 
-1. Order Backlog Management: We identified a substantial operational challenge: 51% of orders (767 out of 1,500) remain unprocessed. This significant backlog poses immediate risks to customer satisfaction and operational efficiency.
+1. **Prioritize Tier 2 Customers in the 300-400k Salary Range**
 
-2. Performance Metrics
+    - Tier 2 customers in the 300-400k range make up the largest and most valuable customer base (55%), with 113 customers. They represent medium-high engagement and income, offering a balanced mix of loyalty and potential for further growth.
 
-   - Average Delivery Delay: 15.51 minutes
-   - Drivers with Highest Delay Variance: D86, D44, and D29
-   - Most Challenging Routes: Route 3, Route 1, and Route 2
+   **Recommendation**
+    - Promote Flexible Loan Products (e.g., personal or education loans) with attractive rates to tap into their financial aspirations, such as professional development or lifestyle upgrades. Use personalized communication to           highlight how        the bank can support their medium-term goals.
 
-3. Nuanced Performance Observations: Interestingly, the data reveals counterintuitive patterns:
+2. **Upsell Investment Products to Tier 1 Customers in the 400-600k Salary Range**
 
-   - Positive feedback orders show slightly higher delay times
-   - Bike C consistently experiences marginally longer delivery times compared to Van A
-   - Expedited allocation rules unexpectedly demonstrate less efficiency than standard methods
+   - Tier 1 customers in the 400-600k range are the most affluent and engaged (62 customers, top RFM scores). They likely have surplus income and a higher propensity to invest in premium products.
 
-## Strategic Recommendations
-1. Operational Optimization
-
-   - Implement immediate resource reallocation to address existing order backlog
-   - Conduct targeted driver performance training
-   - Develop route optimization strategies focusing on high-delay routes
-
-2. Allocation and Resource Strategy
-
-   - Critically review current allocation rules, particularly Expedited Rules
-   - Reassess vehicle allocation, potentially reducing Bike C deployments
-   - Develop a more dynamic resource deployment model
-
-3. Customer Experience Enhancement
-
-   - Establish proactive communication protocols for managing customer expectations
-   - Create transparent tracking mechanisms for orders with potential delays
-   - Develop personalized communication strategies based on order type and customer segment
-
-## Next Steps
-Our recommendation is to initiate a phased implementation approach:
-- Immediate (0-30 days): Backlog reduction and communication improvements
-- Short-term (30-90 days): Driver training and route optimization
-- Medium-term (90-180 days): Comprehensive allocation rule and vehicle fleet review
-
-By systematically addressing these insights, we anticipate significant improvements in operational efficiency, customer satisfaction, and overall delivery performance.

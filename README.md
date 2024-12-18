@@ -70,7 +70,7 @@ Microsoft SQL Server
 - Utilized for creating a simple database from the Customer and Transactions tables.
 - Data cleaning, exploratory analysis, and data manupilation.
 - Data Augmentation and Segementation, using an RFM (Recency, Frequency, Monetary Value) Model to segment the student customers.
-- Stored Preocedure, to ensure script reusability and enhance optimization.
+- Stored Preocedure, to ensure script reusability and enhance automation.
 
 Microsoft Power Bi
 - DAX for creating simple, custom calculations within Power Bi to enrich analysis.
@@ -96,7 +96,7 @@ Microsoft Power Bi
    - Export the segmented dataset and document the methodologies employed in the project.
 
 7. Data Visualization
-   - Create a simple Power Bi dashboard from the segmented dataset, to tell a story and communicate insights to the marketing team.
+   - Create a user-friendly dashboard from the segmented dataset, to tell a story and clearly communicate insights to the marketing team.
 
 8. Recommendations
    - Present clear, actionable insights to the marketing team based on analysis.

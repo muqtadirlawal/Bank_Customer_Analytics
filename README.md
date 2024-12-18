@@ -103,6 +103,8 @@ Microsoft Power Bi
    - Present clear, actionable insights to the marketing team based on analysis.
   
 ## Sample Queries
+An extract from the EDA, involving checking for missing and duplicate records is below;
+
 
 ## Insights and Recommendations
 ![](Overview.png)

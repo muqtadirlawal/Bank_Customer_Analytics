@@ -113,7 +113,9 @@ Below is the section of the script, where I filtered for student customers, per 
 
 ![](students_salary.png)
 
-Next, I calculated the RFM values for each student customer. An extract is shown below.
+Next, I calculated the RFM values for each student customer. This further filters the result to students earning >200k per month and have received at least 10 salary payments in the last 12 months.
+
+![](RFM.png)
 
 
 ## Insights and Recommendations

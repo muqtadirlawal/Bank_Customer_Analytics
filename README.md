@@ -125,7 +125,9 @@ Here is where the customer segmentation takes place. We group the customers into
 
 ![](segment.png)
 
-Finally, the retrieve the segmented data, together with related cutomer data like email to send to the marketing team.
+Finally, the segmented data is retrieved, together with related cutomer information like email to send to the marketing team. This contains 204 records of the most valuable student customers that the marketing team should focus on for targeted offerings and upselling opportunities.
+
+![](retrieve_final.png)
 
 
 

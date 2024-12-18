@@ -105,6 +105,9 @@ Microsoft Power Bi
 ## Sample Queries
 An extract from the EDA, involving checking for missing and duplicate records is below;
 
+![](null_duplicate.png)
+
+The full EDA script can be found [here]()
 
 ## Insights and Recommendations
 ![](Overview.png)

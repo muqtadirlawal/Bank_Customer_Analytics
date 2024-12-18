@@ -147,12 +147,22 @@ You can view and interact with the report [here](https://hullacuk-my.sharepoint.
 
 1. **Prioritize Tier 2 Customers in the 300-400k Salary Range**
 
-    - Tier 2 customers in the 300-400k range make up the largest and most valuable customer base (55%), with 113 customers. They represent medium-high engagement and income, offering a balanced mix of loyalty and potential for further growth.
+   - Tier 2 customers in the 300-400k range make up the largest and most valuable customer base (55%), with 113 customers. They represent medium-high engagement and income, offering a balanced mix of loyalty and potential for further growth.
 
    **Recommendation**
-    - Promote Flexible Loan Products (e.g., personal or education loans) with attractive rates to tap into their financial aspirations, such as professional development or lifestyle upgrades. Use personalized communication to           highlight how        the bank can support their medium-term goals.
+   - Promote Flexible Loan Products (e.g., personal or education loans) with attractive rates to tap into their financial aspirations, such as professional development or lifestyle upgrades. Use personalized communication to           highlight how        the bank can support their medium-term goals.
 
 2. **Upsell Investment Products to Tier 1 Customers in the 400-600k Salary Range**
+   
+   - Tier 1 customers in the 400-600k range are the most affluent and engaged (60 customers, top RFM scores). They likely have surplus income and a higher propensity to invest in premium products.
 
-   - Tier 1 customers in the 400-600k range are the most affluent and engaged (62 customers, top RFM scores). They likely have surplus income and a higher propensity to invest in premium products.
+   **Recommendation**
+   - Offer structured investment options, such as mutual funds, tax-saving bonds, or portfolio management services, combined with financial advisory sessions to help these customers grow their wealth while deepening their relationship with the bank.
+  
+3. **Focus on Financial Literacy and Savings for Tier 3 Customers in the 200-300k Salary Range**
+
+   - Tier 3 customers in the 200-300k range are the least engaged and financially constrained. They may lack awareness of banking products and are at risk of becoming inactive.
+
+   **Recommendation**
+   - Provide financial literacy programs focusing on basic budgeting and savings habits. Pair this with low-barrier savings accounts or micro-investment opportunities to help them build financial stability and trust with the bank.
 

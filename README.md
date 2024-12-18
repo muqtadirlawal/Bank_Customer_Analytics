@@ -56,6 +56,15 @@ The data for this project comprises of 2  tables;
   - Account Number (PK): Unique customer account number.
   - Employment Status: Employment status as at when account was opened.
 
+- Transactions Table
+
+  - TransactionID (PK): Unique identifier for each transaction.
+  - Account Number(FK): Refers to the account number in the Customers table.
+  - Transaction_Date: Date of the transaction.
+  - Transaction_Type: Type of transaction (credit or debit).
+  - Transaction_Amount: Amount involved in the transaction.
+  - TransDescription: Description or label of the transaction.
+
 ## Tech Stack
 Tool – Microsoft Excel
 - Utilized for creating the interactive dashboard, data visualization, and automated ad-hoc report generation using office scripts.

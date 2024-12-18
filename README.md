@@ -109,6 +109,8 @@ An extract from the EDA, involving checking for missing and duplicate records is
 
 The full EDA script can be found [here](NovaTrust_EDA.sql)
 
+Below is section of the query, where I filtered for student customers, per the business requirement.
+
 ## Insights and Recommendations
 ![](Overview.png)
 

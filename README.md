@@ -41,22 +41,20 @@ Tasks for the Analyst
 - Provide actionable insights to NovaTrust Bank’s marketing team to design targeted campaigns for engaging these customer segments effectively.
 
 ## Data Description
-The data for this project comprises of the following;
+The data for this project comprises of 2  tables;
+There are 2 datasets in this project, which are;
 
-- Order ID: A unique identifier for each customer order.
-- Delivery Address: The address to which the order is to be delivered.
-- Order Timestamp: The date and time when the order was placed (e.g., "2023-09-01 08:00").
-- Order Status: The current status of the order (e.g., "In Progress" or "Completed").
-- Driver ID: A unique identifier for each driver assigned to deliver orders.
-- Vehicle Info: Information about the delivery vehicle used for the order.
-- Current Location: The current location of the delivery driver during order delivery.
-- Delivery Time: The total time taken for delivery, measured in minutes (e.g., "120 min").
-- Delays: Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
-- Customer Feedback: Feedback from the customerregarding the delivery experience (e.g., "Positive" or "Negative").
-- Route: The specific route taken by the delivery driver for the order.
-- Delivery Zone: The geographic zone or area where the delivery is made.
-- Allocation Rules: Rules used to allocate resources for the delivery (e.g., "Standard Rules" or "Expedited Rules").
-- Timestamp for Tracking: The date and time of tracking data points (e.g., "2023-09-01 08:15").
+- Customer Table
+  - CustomerID: Unique identifier for each customer.
+  - FirstName: First name of the customer.
+  - LastName: Last name of the customer.
+  - DateOfBirth: Date of birth of the customer.
+  - Contact_Email: Email address.
+  - Phone: Phone number.
+  - Account_Type: Type of account (e.g, savings, current).
+  - Account_Open_Date: Date when the account was opened.
+  - Account Number (PK): Unique customer account number.
+  - Employment Status: Employment status as at when account was opened.
 
 ## Tech Stack
 Tool – Microsoft Excel

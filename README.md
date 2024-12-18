@@ -9,6 +9,7 @@
 - [Data Description](#data-description)
 - [Tech Stack](#tech-stack)
 - [Project Scope](#project-scope)
+- [Sample Queries](#sample-queries)
 - [Insights and Recommendations](#insights-and-recommendations)
 
 ## Business Introduction
@@ -100,6 +101,9 @@ Microsoft Power Bi
 
 8. Recommendations
    - Present clear, actionable insights to the marketing team based on analysis.
+  
+##
+Sample Queries
 
 ## Insights and Recommendations
 ![](Overview.png)

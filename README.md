@@ -117,6 +117,10 @@ Next, I calculated the RFM values for each student customer. This further filter
 
 ![](RFM.png)
 
+After this, scores are assigned to the student customers based on their RFM Scores.
+
+![](RFM_Scores.png)
+
 
 ## Insights and Recommendations
 ![](Overview.png)

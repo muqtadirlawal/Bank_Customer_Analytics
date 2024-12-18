@@ -121,9 +121,12 @@ After this, scores are assigned to the student customers based on their RFM Scor
 
 ![](RFM_Scores.png)
 
-Here is where the customer segmentation takes place. We group the customers into different salary ranges and segment them into differnt Tiers, based on their normalized RFM scores.
+Here is where the customer segmentation takes place. We group the customers into different salary ranges and segment them into different Tiers, based on their normalized RFM scores.
 
 ![](segment.png)
+
+Finally, the retrieve the segmented data, together with related cutomer data like email to send to the marketing team.
+
 
 
 ## Insights and Recommendations

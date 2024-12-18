@@ -129,7 +129,7 @@ Finally, the segmented data is retrieved, together with related cutomer informat
 
 ![](retrieve_final.png)
 
-
+The full segmentation script, which includes the use of Stored Procedure to enhance reusability can be found [here](NovaTrust_204.sql)
 
 ## Insights and Recommendations
 ![](Overview.png)

@@ -140,7 +140,7 @@ An overview of the dashboard can be found below:
 ![](Overview.png)
 
 
-You can view and interact with the report [here](https://hullacuk-my.sharepoint.com/personal/m_o_lawal-2021_hull_ac_uk/_layouts/15/Doc.aspx?sourcedoc={300767bd-d123-4785-a64f-f61272b175a4}&action=embedview&AllowTyping=True&ActiveCell='Dashboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
+You can view and interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiOGJlNzNiZjktZTJjNS00OTNlLTgxMzgtYWYxYWM3YzAwZTA3IiwidCI6IjBjODQwNDRjLTRmZDUtNGU4My1iYjczLWNiYjhjNjI3OGIyZiJ9)
 
 
 ## Recommended Strategies for Engagement

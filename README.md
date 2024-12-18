@@ -21,9 +21,9 @@ NovaTrust Bank aims to address a critical opportunity within its student custome
 - Target Segment: Many customers who opened student accounts during college continue to use these accounts post-graduation, even after joining the workforce.
 - Missed Opportunities: These customers often remain unaware of NovaTrust’s specialized products and services tailored for working professionals.
 - Strategic Goal: The bank seeks to identify former student account holders who:
-  - Are now employed and receiving regular salary deposits.
-  - Have seen at least 10 salary deposits in the past year.
-  - Earn average monthly salaries exceeding 200,000 naira.
+  - are now employed and receiving regular salary deposits.
+  - have seen at least 10 salary deposits in the past year.
+  - earn average monthly salaries exceeding 200,000 naira.
 
 By focusing on this segment, NovaTrust aims to offer curated service offerings such as tailored loan opportunities and account upgrades, ensuring these customers receive solutions aligned with their evolving financial needs.
 

@@ -66,10 +66,15 @@ The data for this project comprises of 2  tables;
   - TransDescription: Description or label of the transaction.
 
 ## Tech Stack
-Tool – Microsoft Excel
-- Utilized for creating the interactive dashboard, data visualization, and automated ad-hoc report generation using office scripts.
-- Data Processing Tools: Leveraging Excel's data manipulation and analysis functions.
-- Visualization Tools: Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
+Microsoft SQL Server
+- Utilized for creating a simple database from the Customer and Transactions tables
+- Data cleaning, exploratory analysis, and data manupilation.
+- Data Augmentation and Segementation, using an RFM (Recency, Frequency, Monetary Value) Model to segment the student customers.
+- Stored Preocedure, to ensure script reusability and enhance optimization.
+
+Microsoft Power Bi
+- DAX for creating simple, custom calculations within Power Bi to enrich analysis.
+- Create simple, interactive visualizations to present to the Marketing team, per the business requirements.
 
 ## Project Scope
 1. Data Preprocessing and Exploratory Analysis

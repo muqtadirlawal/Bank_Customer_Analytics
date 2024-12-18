@@ -24,7 +24,7 @@ NovaTrust Bank aims to address a critical opportunity within its student custome
 - Strategic Goal: The bank seeks to identify former student account holders who:
   - are now employed and receiving regular salary deposits.
   - have seen at least 10 salary deposits in the past year.
-  - earn average monthly salaries exceeding 200,000 naira.
+  - earn average monthly salaries exceeding 200,000.
 
 By focusing on this segment, NovaTrust aims to offer curated service offerings such as tailored loan opportunities and account upgrades, ensuring these customers receive solutions aligned with their evolving financial needs.
 
@@ -116,7 +116,7 @@ Below is the section of the script, where I filtered for student customers, per 
 
 ![](students_salary.png)
 
-Next, I calculated the RFM values for each student customer. This further filters the result to students earning >200k per month and have received at least 10 salary payments in the last 12 months.
+Next, I calculated the RFM values for each student customer. This further filters the result to students earning at least 200k per month and have received at least 10 salary payments in the last 12 months.
 
 ![](RFM.png)
 

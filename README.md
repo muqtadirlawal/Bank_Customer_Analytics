@@ -87,16 +87,16 @@ Microsoft Power Bi
    - Compute RFM scores based on the recency, frequency, and monetary transaction value for each student customer.
 
 4. Customer Segmentation
-   - Decide on segmentation criteria and use the RFM scores to Segment customers into groups.
+   - Decide on segmentation criteria and use the RFM scores to segment customers into groups.
   
 5. Salary Breakdown
-   - Group the srudent customers into various salay brackets, based on the average salaries they have recieved during the period in consideration.
+   - Group the student customers into various salary brackets, based on the average salaries they have recieved during the period in consideration.
 
 6. Reporting and Documentation
    - Export the segmented dataset and document the methodologies employed in the project.
 
 7. Data Visualization
-   - Create a simple Power Bi dashboard to from the segmented dataset, to tell a story and communicate insights to the marketing team.
+   - Create a simple Power Bi dashboard from the segmented dataset, to tell a story and communicate insights to the marketing team.
 
 8. Recommendations
    - Present clear, actionable insights to the marketing team based on analysis.

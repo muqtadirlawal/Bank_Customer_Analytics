@@ -33,12 +33,12 @@ Recognizing the lifetime value of its customers, NovaTrust Bank understands that
 By identifying former student account holders who have transitioned into the workforce, the bank can leverage data to craft targeted campaigns. These efforts will introduce customers to services that match their current financial needs, such as home loans, tailored investment advisories, and other advanced financial solutions. This approach not only strengthens customer loyalty but also maximizes the value derived from long-term relationships.
 
 ## Aim of the Project
-This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfillment processes. Also, in order to adequately track and monitor some important metrics important to the business, an automated ad-hoc report will be generated to continously monitor these metrics. Through this, we aim to:
-- Efficiently allocate delivery resources based on order volume and location.
-- Monitor order progress and proactively identify potential delays.
-- Enhance customer communication with timely delivery status updates.
-- Reduce order backlogs and operational costs.
-- Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
+The primary goal of this project is to identify and segment NovaTrust Bank's former student customers who are transitioning into the workforce and are likely to benefit from the bank’s tailored products and services for working professionals. This will enable the creation of targeted marketing campaigns to introduce these customers to offerings such as credit cards, personal loans, and investment accounts.
+
+Tasks for the Analyst
+- Identify all accounts opened as student accounts with consistent salary inflows over the past year.
+- Segment these customers into categories based on salary amount and frequency of salary deposits within the last year.
+- Provide actionable insights to NovaTrust Bank’s marketing team to design targeted campaigns for engaging these customer segments effectively.
 
 ## Data Description
 The data for this project comprises of the following;

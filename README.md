@@ -107,7 +107,7 @@ An extract from the EDA, involving checking for missing and duplicate records is
 
 ![](null_duplicate.png)
 
-The full EDA script can be found [here]()
+The full EDA script can be found here []()
 
 ## Insights and Recommendations
 ![](Overview.png)

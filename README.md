@@ -103,7 +103,7 @@ Microsoft Power Bi
    - Present clear, actionable insights to the marketing team based on analysis.
   
 ## Sample Queries
-Common Table Expressions (CTEs) were used in the customer segmentation script to enhance readability and simplify the queries.
+**Common Table Expressions (CTEs)** were used in the customer segmentation script to enhance readability and simplify the queries.
 
 An extract from the EDA, involving checking for missing and duplicate records is below;
 
@@ -131,7 +131,7 @@ Finally, the segmented data is retrieved, together with related cutomer informat
 
 ![](retrieve_final.png)
 
-The full segmentation script, which includes the use of Stored Procedure to enhance reusability can be found [here](NovaTrust_204.sql)
+The full segmentation script, which includes the use of **Stored Procedure** to enhance reusability can be found [here](NovaTrust_204.sql)
 
 ## Insights and Recommendations
 ![](Overview.png)

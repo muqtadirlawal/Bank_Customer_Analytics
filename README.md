@@ -103,6 +103,8 @@ Microsoft Power Bi
    - Present clear, actionable insights to the marketing team based on analysis.
   
 ## Sample Queries
+Common Table Expressions (CTEs) were used in the customer segmentation script to enhance readability and simplify the queries.
+
 An extract from the EDA, involving checking for missing and duplicate records is below;
 
 ![](null_duplicate.png)

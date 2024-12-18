@@ -67,7 +67,7 @@ The data for this project comprises of 2  tables;
 
 ## Tech Stack
 Microsoft SQL Server
-- Utilized for creating a simple database from the Customer and Transactions tables
+- Utilized for creating a simple database from the Customer and Transactions tables.
 - Data cleaning, exploratory analysis, and data manupilation.
 - Data Augmentation and Segementation, using an RFM (Recency, Frequency, Monetary Value) Model to segment the student customers.
 - Stored Preocedure, to ensure script reusability and enhance optimization.
@@ -77,29 +77,29 @@ Microsoft Power Bi
 - Create simple, interactive visualizations to present to the Marketing team, per the business requirements.
 
 ## Project Scope
-1. Data Preprocessing and Exploratory Analysis
-   - Rigorous data formatting and preparation
-   - Identify patterns, correlations, and potential data anomalies
-   - Address any data quality issues
+1. Data Exploration
+   - Explore the data to understand its characteristics and discover patterns.
+  
+2. Data Extraction
+   - Develop the queries needed to manipulate & extract the required data, per the business requirements from the marketing team.
+  
+3. RFM Scoring
+   - Compute RFM scores based on the recency, frequency, and monetary transaction value for each student customer.
 
-2. Data Augmentation
-   - Enrich the original dataset with additional relevant information
-   - Prepare data to comprehensively answer business questions
+4. Customer Segmentation
+   - Decide on segmentation criteria and use the RFM scores to Segment customers into groups.
+  
+5. Salary Breakdown
+   - Group the srudent customers into various salay brackets, based on the average salaries they have recieved during the period in consideration.
 
-3. Data Visualization and Dashboard Design
-   - Create visual representations of key insights
-   - Develop an interactive Excel dashboard with intuitive data visualization components
-   - Effectively communicate findings through clear and compelling visuals
+6. Reporting and Documentation
+   - Export the segmented dataset and document the methodologies employed in the project.
 
-4. Automated Reporting
-   - Create Office Scripts to automate ad-hoc report generation
-   - Develop scripts to calculate and track important business metrics
-   - Ensure consistent and efficient metric tracking
+7. Data Visualization
+   - Create a simple Power Bi dashboard to from the segmented dataset, to tell a story and communicate insights to the marketing team.
 
-5. Interpretation and Recommendations
-   - Extract meaningful insights from the analyzed data
-   - Develop comprehensive documentation
-   - Provide actionable recommendations based on the analysis
+8. Recommendations
+   - Present clear, actionable insights to the marketing team based on analysis.
 
 ## Insights and Recommendations
 ![](Overview.png)
